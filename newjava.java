@@ -10,6 +10,7 @@ public class newjava {
         System.out.println(s1+" \nclear new feature 2");
         System.out.println(s1+" \nclear new feature 3");
         System.out.println(s1+" \nclear new feature 4");
+        System.out.println(s1+" \nclear new feature 5");
     }    
 
 }
